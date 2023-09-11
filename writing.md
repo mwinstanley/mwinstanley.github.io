@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Writing
+permalink: /writing/
 ---
 
 {%- if site.posts.size > 0 -%}
