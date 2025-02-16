@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Melissa Winstanley is a software engineer, artist, musician, and gardener living in Seattle, Washington.
+Melissa Winstanley is a software engineer, artist, musician, and gardener living in Seattle Washington.
